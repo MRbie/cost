@@ -2,6 +2,7 @@
 [README.md展示如何使用,引用别人的github](https://github.com/guodongxiaren/README)
 ***
 #### 使用技术jsp+servlet+mysql+html+css+bootstrap+ajax+...实现一个分角色登录企业费用管理系统~~~
+#### 开发环境Eclipse Version: Mars.2 Release (4.5.2) + Jdk7.0 + tomcat 8.0
 ***
 #### 1:系统登录的首页login
 ![](https://github.com/MRbie/cost/blob/master/cost_pitcure/system/main/login.png)
