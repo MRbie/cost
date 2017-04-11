@@ -4,7 +4,7 @@
 #### 使用技术jsp+servlet+mysql+html+css+bootstrap+ajax+...实现一个分角色登录企业费用管理系统~~~
 ***
 #### 1:系统登录的首页login
-![](https://github.com/MRbie/cost/raw/master/cost_pitcure/system/main/login.png)
+![](https://github.com/MRbie/cost/blob/master/cost_pitcure/system/main/login.png)
 #### 2:系统登录成功会显示图形报表，显示经理审批，财务审批和一些其他东西
 ![](https://github.com/MRbie/cost/blob/master/cost_pitcure/system/main/main.png)
 #### 3:系统登录成功可以查看自己的个人信息
