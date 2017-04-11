@@ -1,4 +1,4 @@
-# cost
+# 项目名称:cost(注解:实现企业费用管理系统)
 [README.md展示如何使用,引用别人的github](https://github.com/guodongxiaren/README)
 ***
 #### 使用技术jsp+servlet+mysql+html+css+bootstrap+ajax+...实现一个分角色登录企业费用管理系统~~~
