@@ -1,4 +1,7 @@
 # cost
-本项目使用jsp+servlet实现的企业费用管理系统
+[README.md展示如何适用](https://github.com/guodongxiaren/README)
 ***
-![login](https://github.com/MRbie/cost/blob/master/login.png)
+#### 1:系统登录的首页login
+![](https://github.com/MRbie/cost/raw/master/cost_pitcure/system/main/login.png)
+
+
